@@ -140,7 +140,6 @@ O andarilho é o jogador: {}
         print("Jogador inválido")
         definirArmador()
 
-
 while True:
     menu()
     opcaoMenu = int(input())
