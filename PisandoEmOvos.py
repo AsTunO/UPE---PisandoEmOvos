@@ -7,7 +7,6 @@ config = {
     "pontacaoJogadorAndarilho": 0,
 
 }
-
 terreno = []
 for i in range (7):
     linha = []
